@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPAddressValid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ae929064bdd0b873b53ac36fc6a565bd43ae1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a24d10c4c8334c7a2b5fd5bd6bece820812a06")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPAddressValid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPAddressValid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

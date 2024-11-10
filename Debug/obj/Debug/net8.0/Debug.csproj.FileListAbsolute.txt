@@ -1,0 +1,15 @@
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.sourcelink.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/bin/Debug/net8.0/Debug
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/bin/Debug/net8.0/Debug.deps.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/bin/Debug/net8.0/Debug.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/bin/Debug/net8.0/Debug.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/bin/Debug/net8.0/Debug.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/refint/Debug.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/Debug.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/Debug/obj/Debug/net8.0/ref/Debug.dll
