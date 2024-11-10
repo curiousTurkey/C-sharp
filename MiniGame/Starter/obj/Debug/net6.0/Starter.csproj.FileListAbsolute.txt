@@ -1,0 +1,15 @@
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/bin/Debug/net6.0/Starter
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/bin/Debug/net6.0/Starter.deps.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/bin/Debug/net6.0/Starter.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/bin/Debug/net6.0/Starter.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.sourcelink.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/refint/Starter.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/obj/Debug/net6.0/ref/Starter.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eldhose/Documents/Side Projects/C#/Methods/Methods.csproj": {}
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Methods/Methods.csproj": {}
   },
   "projects": {
-    "/Users/eldhose/Documents/Side Projects/C#/Methods/Methods.csproj": {
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Methods/Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/Methods/Methods.csproj",
+        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Methods/Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/Methods/Methods.csproj",
+        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Methods/Methods.csproj",
         "packagesPath": "/Users/eldhose/.nuget/packages/",
-        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/Methods/obj/",
+        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Methods/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eldhose/.nuget/NuGet/NuGet.Config"

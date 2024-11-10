@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/ValidateEmail.csproj": {}
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/ValidateEmail/ValidateEmail.csproj": {}
   },
   "projects": {
-    "/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/ValidateEmail.csproj": {
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/ValidateEmail/ValidateEmail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/ValidateEmail.csproj",
+        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/ValidateEmail/ValidateEmail.csproj",
         "projectName": "ValidateEmail",
-        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/ValidateEmail.csproj",
+        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/ValidateEmail/ValidateEmail.csproj",
         "packagesPath": "/Users/eldhose/.nuget/packages/",
-        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/",
+        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/ValidateEmail/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eldhose/.nuget/NuGet/NuGet.Config"

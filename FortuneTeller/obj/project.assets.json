@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/FortuneTeller.csproj",
+      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/FortuneTeller/FortuneTeller.csproj",
       "projectName": "FortuneTeller",
-      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/FortuneTeller.csproj",
+      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/FortuneTeller/FortuneTeller.csproj",
       "packagesPath": "/Users/eldhose/.nuget/packages/",
-      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/",
+      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/FortuneTeller/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eldhose/.nuget/NuGet/NuGet.Config"

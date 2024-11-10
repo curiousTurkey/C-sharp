@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eldhose/Documents/Side Projects/C#/String/String.csproj": {}
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/String/String.csproj": {}
   },
   "projects": {
-    "/Users/eldhose/Documents/Side Projects/C#/String/String.csproj": {
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/String/String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/String/String.csproj",
+        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/String/String.csproj",
         "projectName": "String",
-        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/String/String.csproj",
+        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/String/String.csproj",
         "packagesPath": "/Users/eldhose/.nuget/packages/",
-        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/String/obj/",
+        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/String/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eldhose/.nuget/NuGet/NuGet.Config"

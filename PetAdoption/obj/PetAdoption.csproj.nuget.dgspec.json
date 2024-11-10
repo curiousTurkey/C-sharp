@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eldhose/Documents/Side Projects/C#/PetAdoption/PetAdoption.csproj": {}
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/PetAdoption/PetAdoption.csproj": {}
   },
   "projects": {
-    "/Users/eldhose/Documents/Side Projects/C#/PetAdoption/PetAdoption.csproj": {
+    "/Users/eldhose/Documents/Side Projects/C#/C-sharp/PetAdoption/PetAdoption.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/PetAdoption/PetAdoption.csproj",
+        "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/PetAdoption/PetAdoption.csproj",
         "projectName": "PetAdoption",
-        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/PetAdoption/PetAdoption.csproj",
+        "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/PetAdoption/PetAdoption.csproj",
         "packagesPath": "/Users/eldhose/.nuget/packages/",
-        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/PetAdoption/obj/",
+        "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/PetAdoption/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eldhose/.nuget/NuGet/NuGet.Config"

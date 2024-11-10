@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/IPAddressValid/IPAddressValid.csproj",
+      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/IPAddressValid/IPAddressValid.csproj",
       "projectName": "IPAddressValid",
-      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/IPAddressValid/IPAddressValid.csproj",
+      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/IPAddressValid/IPAddressValid.csproj",
       "packagesPath": "/Users/eldhose/.nuget/packages/",
-      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/IPAddressValid/obj/",
+      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/IPAddressValid/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eldhose/.nuget/NuGet/NuGet.Config"

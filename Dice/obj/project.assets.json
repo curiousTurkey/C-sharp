@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/Dice/Dice.csproj",
+      "projectUniqueName": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Dice/Dice.csproj",
       "projectName": "Dice",
-      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/Dice/Dice.csproj",
+      "projectPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Dice/Dice.csproj",
       "packagesPath": "/Users/eldhose/.nuget/packages/",
-      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/Dice/obj/",
+      "outputPath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/Dice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eldhose/.nuget/NuGet/NuGet.Config"

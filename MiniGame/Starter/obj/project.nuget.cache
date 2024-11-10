@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2HXO/9YtOjk=",
+  "success": true,
+  "projectFilePath": "/Users/eldhose/Documents/Side Projects/C#/C-sharp/MiniGame/Starter/Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/eldhose/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/eldhose/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/eldhose/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
