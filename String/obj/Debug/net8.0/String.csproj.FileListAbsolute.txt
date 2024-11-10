@@ -1,0 +1,14 @@
+/Users/eldhose/Documents/Side Projects/C#/String/bin/Debug/net8.0/String
+/Users/eldhose/Documents/Side Projects/C#/String/bin/Debug/net8.0/String.deps.json
+/Users/eldhose/Documents/Side Projects/C#/String/bin/Debug/net8.0/String.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/String/bin/Debug/net8.0/String.dll
+/Users/eldhose/Documents/Side Projects/C#/String/bin/Debug/net8.0/String.pdb
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.dll
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/refint/String.dll
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.pdb
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/String.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/String/obj/Debug/net8.0/ref/String.dll

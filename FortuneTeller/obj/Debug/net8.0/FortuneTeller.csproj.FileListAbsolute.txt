@@ -1,0 +1,14 @@
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/bin/Debug/net8.0/FortuneTeller
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/bin/Debug/net8.0/FortuneTeller.deps.json
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/bin/Debug/net8.0/FortuneTeller.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/bin/Debug/net8.0/FortuneTeller.dll
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/bin/Debug/net8.0/FortuneTeller.pdb
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.dll
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/refint/FortuneTeller.dll
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.pdb
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/FortuneTeller.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/FortuneTeller/obj/Debug/net8.0/ref/FortuneTeller.dll

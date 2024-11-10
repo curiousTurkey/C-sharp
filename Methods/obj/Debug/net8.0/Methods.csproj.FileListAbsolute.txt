@@ -1,0 +1,14 @@
+/Users/eldhose/Documents/Side Projects/C#/Methods/bin/Debug/net8.0/Methods
+/Users/eldhose/Documents/Side Projects/C#/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/eldhose/Documents/Side Projects/C#/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/Methods/bin/Debug/net8.0/Methods.dll
+/Users/eldhose/Documents/Side Projects/C#/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.dll
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/Methods/obj/Debug/net8.0/ref/Methods.dll

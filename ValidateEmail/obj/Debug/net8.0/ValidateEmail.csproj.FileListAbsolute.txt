@@ -1,0 +1,14 @@
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/bin/Debug/net8.0/ValidateEmail
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/bin/Debug/net8.0/ValidateEmail.deps.json
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/bin/Debug/net8.0/ValidateEmail.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/bin/Debug/net8.0/ValidateEmail.dll
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/bin/Debug/net8.0/ValidateEmail.pdb
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.dll
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/refint/ValidateEmail.dll
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.pdb
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ValidateEmail.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/ValidateEmail/obj/Debug/net8.0/ref/ValidateEmail.dll

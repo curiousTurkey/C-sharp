@@ -1,0 +1,15 @@
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/bin/Debug/net8.0/ZooVisit
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/bin/Debug/net8.0/ZooVisit.deps.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/bin/Debug/net8.0/ZooVisit.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/bin/Debug/net8.0/ZooVisit.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/bin/Debug/net8.0/ZooVisit.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.sourcelink.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/refint/ZooVisit.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ZooVisit.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/ZooVisit/obj/Debug/net8.0/ref/ZooVisit.dll
