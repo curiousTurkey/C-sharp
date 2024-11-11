@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Debug/bin/Debug/net8.0/Debug.dll",
+            "program": "${workspaceFolder}/TryCatch/bin/Debug/net8.0/TryCatch.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Debug",
+            "cwd": "${workspaceFolder}/TryCatch",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "externalTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {

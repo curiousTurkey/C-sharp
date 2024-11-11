@@ -1,0 +1,15 @@
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/bin/Debug/net8.0/DebugChallenge
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/bin/Debug/net8.0/DebugChallenge.deps.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/bin/Debug/net8.0/DebugChallenge.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/bin/Debug/net8.0/DebugChallenge.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/bin/Debug/net8.0/DebugChallenge.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.sourcelink.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/refint/DebugChallenge.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/DebugChallenge.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/DebugChallenge/obj/Debug/net8.0/ref/DebugChallenge.dll

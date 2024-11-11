@@ -1,0 +1,15 @@
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/bin/Debug/net8.0/AverageOfEven
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/bin/Debug/net8.0/AverageOfEven.deps.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/bin/Debug/net8.0/AverageOfEven.runtimeconfig.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/bin/Debug/net8.0/AverageOfEven.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/bin/Debug/net8.0/AverageOfEven.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.AssemblyInfoInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.AssemblyInfo.cs
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.csproj.CoreCompileInputs.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.sourcelink.json
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/refint/AverageOfEven.dll
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.pdb
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/AverageOfEven.genruntimeconfig.cache
+/Users/eldhose/Documents/Side Projects/C#/C-sharp/AverageOfEven/obj/Debug/net8.0/ref/AverageOfEven.dll
